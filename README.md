@@ -1,13 +1,13 @@
-# IOT-Project: Akıllı Ev Otomasyon Sistemi 🏠🌐
+# IOT-Project: Akıllı Ev Otomasyon Sistemi 
 
 Bu proje, modern bir akıllı ev ekosistemini simüle eden, Java diliyle geliştirilmiş **Nesne Yönelimli Programlama (OOP)** tabanlı bir otomasyon sistemidir. Sistem; sensörlerin ve cihazların merkezi bir birimden yönetilmesini, gerçek zamanlı veri akışını ve dinamik enerji stratejilerini kapsar.
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 Sistem; farklı sensörlerin (sıcaklık, duman, hareket) ve cihazların (klima, lamba, alarm) tek bir merkezden (**Hub**) yönetilmesini, cihazlar arası iletişimi ve farklı enerji stratejilerine göre sistemin dinamik olarak tepki vermesini sağlar.
 
 ---
 
-## 🛠 Kullanılan Tasarım Kalıpları ve Teknikler
+##  Kullanılan Tasarım Kalıpları ve Teknikler
 
 Proje mimarisi, sürdürülebilir ve genişletilebilir bir yapı için popüler **Design Patterns** kullanılarak inşa edilmiştir:
 
@@ -20,7 +20,7 @@ Proje mimarisi, sürdürülebilir ve genişletilebilir bir yapı için popüler 
 
 ---
 
-## ⚙️ Çalışma Akışı
+##  Çalışma Akışı
 
 1.  **Başlatma:** Merkezi Hub birimi oluşturulur.
 2.  **Üretim & Kayıt:** `DeviceFactory` ile üretilen cihazlar (Klima, Duman Sensörü vb.) Hub sistemine kaydedilir.
